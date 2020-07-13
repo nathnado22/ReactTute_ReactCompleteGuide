@@ -1,0 +1,16 @@
+div.userOutput
+{
+    margin : auto;
+    margin-top: 10px;
+    min-height : 100px;
+    background-color : lightcoral;
+    width : 200px;
+    border-radius : 10px;
+    box-shadow : 0 4px 3px #ccc;
+}
+
+.userOutput p 
+{
+    display: inline-block;
+    vertical-align: middle;
+}
